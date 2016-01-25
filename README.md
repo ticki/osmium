@@ -28,7 +28,7 @@ together with a number of other features.
 7z does not store file permissions.
 
 This is the reason that I think a new format is needed (
-xkcd #972 applies here).
+[xkcd #927](https://xkcd.com/927/) applies here).
 
 
 Here we will outline the format of Osmium, an modern,
@@ -139,4 +139,3 @@ Sorry for reinventing the wheel again.
 
 
 - Ticki
-
