@@ -1,0 +1,6 @@
+[package]
+name = "osmium"
+version = "0.1.0"
+authors = ["rushsteve1 <rushsteve12@gmail.com>"]
+
+[dependencies]
